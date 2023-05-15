@@ -1,0 +1,2 @@
+def checkStock():
+    print("hello")
